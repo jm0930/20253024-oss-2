@@ -2,10 +2,10 @@
 
 ---
 ##조사할 목록
-1.top
-2.ps
-3.jobs
-4.kill
+-top
+-ps
+-jobs
+-kill
 ---
 
 ## 1. top이란?
